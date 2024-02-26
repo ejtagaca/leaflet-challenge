@@ -17,3 +17,5 @@ Data points colors change with depth level (10 points)
 Each point has a tooltip with the Magnitude, the location and depth (10 points)
 
 All data points load in the correct locations (10 points)
+
+![image](https://github.com/ejtagaca/leaflet-challenge/assets/16442065/0523efe0-764c-4e7d-b869-f7a72ecd4992)
